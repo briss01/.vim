@@ -1,2 +1,3 @@
-#VIM CONFIGURATION
+# VIM CONFIGURATION
+
 my Vim configuration
